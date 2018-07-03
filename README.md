@@ -11,6 +11,6 @@ whiteship님의 스프링부트와 도커 연결 방송 실습 프로젝트
 
 ## Run
 ```
-$ docker run -d -p 10001:8080 hanras/spring-docker
+$ docker run -d -p 10001:8080 hnaras/spring-docker
 $ curl localhost:8080 
 ```
